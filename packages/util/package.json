@@ -1,0 +1,32 @@
+{
+  "name": "@twstyled-contrib/use-modal",
+  "version": "3.2.4",
+  "description": "Simple Modal Hook for React",
+  "license": "MIT",
+  "repository": "twstyled/twstyled-contrib",
+  "author": "guy@tinia.org",
+  "homepage": "https://github.com/twstyled/twstyled-contrib",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "engines": {
+    "node": ">= 10.13.0"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "files": [
+    "dist"
+  ],
+  "peerDependencies": {
+  },
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "twstyled",
+    "tailwindcss"
+  ]
+}
